@@ -1,9 +1,10 @@
 # 👩‍💻 Aline Chapini
 **`Developer Student`**
 
-Olá, me chamo Aline Chapini, tenho 29 anos e sou de Londrina-Paraná. Conclui o Ensino médio no IFMT, com curso técnico de Secretáriado. Sou graduada em Comércio Exterior pelo IFMT. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. 
+<p> Olá, me chamo Aline Chapini, tenho 29 anos e sou de Londrina-Paraná. Conclui o Ensino médio no IFMT, com curso técnico de Secretáriado. Sou graduada em Comércio Exterior pelo IFMT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. </p> 
+
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -57,18 +58,3 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
     style="padding-right: 10px;"
     src="https://cdn.simpleicons.org/github/white"
 />
-
-<!--
-**alinechapini/Alinechapini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
