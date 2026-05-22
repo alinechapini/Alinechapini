@@ -1,4 +1,4 @@
-# 👩‍💻 Aline Chapini
+# 👩🏻‍💻 Aline Chapini
 **`Developer Student`**
 
 <p> Olá, me chamo Aline Chapini, tenho 29 anos e sou de Londrina-Paraná. Conclui o Ensino médio no IFMT, com curso técnico de Secretáriado. Sou graduada em Comércio Exterior pelo IFMT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. </p> 
